@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/thvasconn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YagoNitto&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoNitto&layout=compact&langs_count=16&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thvasconn&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thvasconn&layout=compact&langs_count=16&theme=dracula" />
 </div>
   
   ##
