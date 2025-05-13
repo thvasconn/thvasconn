@@ -1,7 +1,5 @@
 ## Oi eu sou o Thiago Vasconcellos, desenvolvedor FullStack!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thvasconn)](https://github.com/anuraghazra/github-readme-stats)
-
 <div>
   <a href="https://github.com/YagoNitto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YagoNitto&show_icons=true&theme=dracula" />
